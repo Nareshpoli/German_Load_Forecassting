@@ -14,6 +14,8 @@ An interactive dashboard built with **Streamlit**, **XGBoost**, and **Plotly** t
 - `germany_load_forecasting_dashboard_V2.py` — Uses improved feature handling and forecast structure
 - `germany_load_forecasting_dashboard_V3.py` - addition of sidebar and menu items in streamlit.
 
+🚀 [Click here to try the Live Demo](https://germanloadforecassting-duu7obpqmsfvk4feehuxs9.streamlit.app/)
+
 ## How to Run
 
 ```bash
