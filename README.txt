@@ -12,7 +12,7 @@ An interactive dashboard built with **Streamlit**, **XGBoost**, and **Plotly** t
 
 - `germany_load_forecasting_dashboard.py` — Base version( No 7 day hourly load forecast)
 - `germany_load_forecasting_dashboard_V2.py` — Uses improved feature handling and forecast structure
-
+- `germany_load_forecasting_dashboard_V3.py` - addition of sidebar and menu items in streamlit.
 
 ## How to Run
 
