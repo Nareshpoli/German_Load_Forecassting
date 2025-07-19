@@ -8,6 +8,12 @@ An interactive dashboard built with **Streamlit**, **XGBoost**, and **Plotly** t
 - 🔮 Predicts next 7-day hourly load
 - 🧠 ML model: XGBoost Regressor
 
+## 🔁 Versions
+
+- `germany_load_forecasting_dashboard.py` — Base version( No 7 day hourly load forecast)
+- `germany_load_forecasting_dashboard_V2.py` — Uses improved feature handling and forecast structure
+
+
 ## How to Run
 
 ```bash
