@@ -2,6 +2,15 @@
 
 An interactive dashboard built with **Streamlit**, **XGBoost**, and **Plotly** to forecast Germany’s electricity load over the next 7 days.
 
+### 📊 Data Source
+The load data used in this project is sourced from the [Open Power System Data (OPSD)](https://data.open-power-system-data.org/time_series/) platform.
+
+> License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+Citation:
+Open Power System Data. (2020). Time series. https://data.open-power-system-data.org/time_series/
+
+
 ## Features
 
 - 📈 Visualizes historical load
